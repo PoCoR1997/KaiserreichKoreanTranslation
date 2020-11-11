@@ -580,8 +580,8 @@ ottoman_centralising_focus:0 "Kemalist Centralism"
 ###########
 
 ### Politics (Kemalist)
-OTT_Judicial_Commision:0 "Found the Judicial Commision"
-OTT_Judicial_Commision_desc:0 "As the Ottoman civil code is based on the Sharia, in the shape of the Mecelle, many of the reformers have been attempting to replace it with a modernised and secular variant. An attempt at doing so was started in 1930 but the electoral defeat in 1931, forced the OHF to re-evaluate its position. Now that the party is back in charge, it seems only natural to push it once more."
+OTT_Judicial_Commision:0 "사법위원회 창설"
+OTT_Judicial_Commision_desc:0 "오스만 형법은 샤리아에 기반한 Mecelle였기 때문에 개혁파들은 그것을 현대화되고 세속적인 것으로 바꾸고자 해왔습니다. 그것은 1930년에 시도되었지만, 1931년 선거의 패배로 OHF는 그것을 이룰 수 없었습니다. 하지만 그들이 정권을 탈환한 지금, 그것을 다시 추진하는 것은 당연할 것입니다."
 OTT_Expand_the_Education_Ministry:0 "Expand the Education Ministry"
 OTT_Expand_the_Education_Ministry_desc:0 "Fighting an uphill battle ever since the revolution in 1908, the topic of education is of the utmost importance to the OHF. Significant steps have been made in this regard, especially on the matter of co-education, but the decentralisation of the Ottoman Education System remains a thorn in the side. With the upcoming Co-education and Unification Decree, these will be annihilated in one fell swoop!"
 OTT_Replace_the_Penal_Code:0 "Replace the Penal Code"
